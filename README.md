@@ -1,10 +1,10 @@
 # Basics of Machine Learning
 
-This is a notebook with instructions to create classification and clustering Machine Learning models.
+This notebook has instructions to create and assess classification and clustering models.
 
-We use the well-known Iris dataset
+We use the well-known Iris dataset.
 
-Model:
-- K-nearest neighbours 
-- Random Foresst
-- k-Means
+Models:
+- K-nearest neighbours (classification and regression)
+- Random Forest (classification and regression)
+- k-Means (clustering)
